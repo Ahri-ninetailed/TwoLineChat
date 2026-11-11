@@ -1,0 +1,4 @@
+package-as: TwoLineChat
+
+ignore:
+  - README.md

@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: TwoLineChat
+## Notes: Shows chat messages as two lines: the header (time, channel, sender) and the message text.
+## Notes-ruRU: Показывает сообщения чата в две строки: заголовок (время, канал, ник) и текст сообщения.
+## Author: Ahri-ninetailed
+## Version: @project-version@
+## OptionalDeps: PugaWhoIsTalking
+
+TwoLineChat.lua
