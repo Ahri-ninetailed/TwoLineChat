@@ -4,6 +4,7 @@
 ## Notes-ruRU: Показывает сообщения чата в две строки: заголовок (время, канал, ник) и текст сообщения.
 ## Author: Ahri-ninetailed
 ## Version: @project-version@
+## X-Curse-Project-ID: 1798081
 ## OptionalDeps: PugaWhoIsTalking
 
 TwoLineChat.lua
